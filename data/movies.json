@@ -35,7 +35,7 @@
         "prison",
         "friendship"
       ],
-      "imgPath": "../movies/The Shawshank Redemption.jpg"
+      "imgPath": "movies/The Shawshank Redemption.jpg"
     },
     {
       "id": 2,
@@ -70,7 +70,7 @@
         "mafia",
         "family"
       ],
-      "imgPath": "img/movies/The Godfather.jpg"
+      "imgPath": "movies/The Godfather.jpg"
     },
     {
       "id": 3,
@@ -106,7 +106,7 @@
         "dreams",
         "heist"
       ],
-      "imgPath": "img/movies/Inception.jpg"
+      "imgPath": "movies/Inception.jpg"
     },
     {
       "id": 4,
@@ -142,7 +142,7 @@
         "time",
         "science"
       ],
-      "imgPath": "img/movies/Interstellar.jpg"
+      "imgPath": "movies/Interstellar.jpg"
     },
     {
       "id": 5,
@@ -178,7 +178,7 @@
         "nonlinear",
         "cult"
       ],
-      "imgPath": "img/movies/Pulp Fiction.jpg"
+      "imgPath": "movies/Pulp Fiction.jpg"
     },
     {
       "id": 6,
@@ -214,7 +214,7 @@
         "action",
         "batman"
       ],
-      "imgPath": "img/movies/The Dark Knight.jpg"
+      "imgPath": "movies/The Dark Knight.jpg"
     },
     {
       "id": 7,
@@ -250,7 +250,7 @@
         "class",
         "thriller"
       ],
-      "imgPath": "img/movies/Parasite.jpg"
+      "imgPath": "movies/Parasite.jpg"
     },
     {
       "id": 8,
@@ -285,7 +285,7 @@
         "drama",
         "life"
       ],
-      "imgPath": "img/movies/Forrest Gump.jpg"
+      "imgPath": "movies/Forrest Gump.jpg"
     },
     {
       "id": 9,
@@ -320,7 +320,7 @@
         "simulation",
         "action"
       ],
-      "imgPath": "img/movies/The Matrix.jpg"
+      "imgPath": "movies/The Matrix.jpg"
     },
     {
       "id": 10,
@@ -356,7 +356,7 @@
         "magic",
         "adventure"
       ],
-      "imgPath": "img/movies/Spirited Away.jpg"
+      "imgPath": "movies/Spirited Away.jpg"
     },
     {
       "id": 11,
@@ -392,7 +392,7 @@
         "action",
         "revenge"
       ],
-      "imgPath": "img/movies/Gladiator.jpg"
+      "imgPath": "movies/Gladiator.jpg"
     },
     {
       "id": 12,
@@ -428,7 +428,7 @@
         "dark",
         "origin"
       ],
-      "imgPath": "img/movies/Joker.jpg"
+      "imgPath": "movies/Joker.jpg"
     },
     {
       "id": 13,
@@ -464,7 +464,7 @@
         "romance",
         "dreams"
       ],
-      "imgPath": "img/movies/La La Land.jpg"
+      "imgPath": "movies/La La Land.jpg"
     },
     {
       "id": 14,
@@ -500,7 +500,7 @@
         "superhero",
         "epic"
       ],
-      "imgPath": "img/movies/AvengersEndgame.jpg"
+      "imgPath": "movies/AvengersEndgame.jpg"
     },
     {
       "id": 15,
@@ -536,7 +536,7 @@
         "war",
         "science"
       ],
-      "imgPath": "img/movies/Oppenheimer.jpg"
+      "imgPath": "movies/Oppenheimer.jpg"
     },
     {
       "id": 16,
@@ -572,7 +572,7 @@
         "social",
         "thriller"
       ],
-      "imgPath": "img/movies/Get Out.jpg"
+      "imgPath": "movies/Get Out.jpg"
     },
     {
       "id": 17,
@@ -608,7 +608,7 @@
         "epic",
         "adaptation"
       ],
-      "imgPath": "img/movies/Dune.jpg"
+      "imgPath": "movies/Dune.jpg"
     },
     {
       "id": 18,
@@ -644,7 +644,7 @@
         "oscar",
         "comedy"
       ],
-      "imgPath": "img/movies/Everything Everywhere All at Once.jpg"
+      "imgPath": "movies/Everything Everywhere All at Once.jpg"
     },
     {
       "id": 29,
@@ -680,7 +680,7 @@
         "war",
         "heroism"
       ],
-      "imgPath": "img/movies/Saving Private Ryan.jpg"
+      "imgPath": "movies/Saving Private Ryan.jpg"
     },
     {
       "id": 30,
@@ -717,7 +717,7 @@
         "biography",
         "freddie mercury"
       ],
-      "imgPath": "img/movies/Bohemian Rhapsody.jpg"
+      "imgPath": "movies/Bohemian Rhapsody.jpg"
     }
   ]
 }
