@@ -35,7 +35,7 @@
         "prison",
         "friendship"
       ],
-      "imgPath": "/movies/The Shawshank Redemption.jpg"
+      "imgPath": "../movies/The Shawshank Redemption.jpg"
     },
     {
       "id": 2,
