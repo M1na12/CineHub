@@ -39,7 +39,7 @@
         "transformation",
         "meth"
       ],
-      "imgPath": "img/series/breakingbad.jpg"
+      "imgPath": "series/breakingbad.jpg"
     },
     {
       "id": 2,
@@ -78,7 +78,7 @@
         "dragons",
         "war"
       ],
-      "imgPath": "img/series/got.jpg"
+      "imgPath": "series/got.jpg"
     },
     {
       "id": 3,
@@ -117,7 +117,7 @@
         "history",
         "disaster"
       ],
-      "imgPath": "img/series/Chernobyl.jpg"
+      "imgPath": "series/Chernobyl.jpg"
     },
     {
       "id": 4,
@@ -156,7 +156,7 @@
         "mystery",
         "german"
       ],
-      "imgPath": "img/series/Dark.jpg"
+      "imgPath": "series/Dark.jpg"
     },
     {
       "id": 5,
@@ -194,7 +194,7 @@
         "1920s",
         "british"
       ],
-      "imgPath": "img/series/Peaky Blinders.jpg"
+      "imgPath": "series/Peaky Blinders.jpg"
     },
     {
       "id": 6,
@@ -233,7 +233,7 @@
         "supernatural",
         "kids"
       ],
-      "imgPath": "img/series/Stranger Things.jpg"
+      "imgPath": "series/Stranger Things.jpg"
     },
     {
       "id": 7,
@@ -268,7 +268,7 @@
         "dystopia",
         "anthology"
       ],
-      "imgPath": "img/series/Black Mirror.jpg"
+      "imgPath": "series/Black Mirror.jpg"
     },
     {
       "id": 8,
@@ -307,7 +307,7 @@
         "lawyer",
         "crime"
       ],
-      "imgPath": "img/series/Better Call Saul.jpg"
+      "imgPath": "series/Better Call Saul.jpg"
     },
     {
       "id": 9,
@@ -346,7 +346,7 @@
         "survival",
         "game-adaptation"
       ],
-      "imgPath": "img/series/The Last of Us.jpg"
+      "imgPath": "series/The Last of Us.jpg"
     },
     {
       "id": 10,
@@ -385,7 +385,7 @@
         "korean",
         "games"
       ],
-      "imgPath": "img/series/Squid Game.jpg"
+      "imgPath": "series/Squid Game.jpg"
     },
     {
       "id": 11,
@@ -424,7 +424,7 @@
         "dragons",
         "got-spinoff"
       ],
-      "imgPath": "img/series/House of the Dragon.jpg"
+      "imgPath": "series/House of the Dragon.jpg"
     },
     {
       "id": 12,
@@ -463,7 +463,7 @@
         "identity",
         "mystery"
       ],
-      "imgPath": "img/series/Severance.jpg"
+      "imgPath": "series/Severance.jpg"
     },
     {
       "id": 13,
@@ -502,7 +502,7 @@
         "money",
         "family"
       ],
-      "imgPath": "img/series/Ozark.jpg"
+      "imgPath": "series/Ozark.jpg"
     },
     {
       "id": 14,
@@ -541,7 +541,7 @@
         "teen",
         "mystery"
       ],
-      "imgPath": "img/series/Wednesday.jpg"
+      "imgPath": "series/Wednesday.jpg"
     },
     {
       "id": 15,
@@ -579,7 +579,7 @@
         "history",
         "netflix"
       ],
-      "imgPath": "img/series/The Crown.jpg"
+      "imgPath": "series/The Crown.jpg"
     },
     {
       "id": 16,
@@ -618,7 +618,7 @@
         "british",
         "modern"
       ],
-      "imgPath": "img/series/Sherlock.jpg"
+      "imgPath": "series/Sherlock.jpg"
     },
     {
       "id": 17,
@@ -657,7 +657,7 @@
         "spanish",
         "netflix"
       ],
-      "imgPath": "img/series/Money Heist.jpg"
+      "imgPath": "series/Money Heist.jpg"
     },
     {
       "id": 18,
@@ -696,7 +696,7 @@
         "serial-killer",
         "fincher"
       ],
-      "imgPath": "img/series/Mindhunter.jpg"
+      "imgPath": "series/Mindhunter.jpg"
     },
     {
       "id": 19,
@@ -735,7 +735,7 @@
         "dark-comedy",
         "satire"
       ],
-      "imgPath": "img/series/The Boys.jpg"
+      "imgPath": "series/The Boys.jpg"
     },
     {
       "id": 24,
@@ -775,7 +775,7 @@
         "hbo",
         "military"
       ],
-      "imgPath": "img/series/Band of Brothers.jpg"
+      "imgPath": "series/Band of Brothers.jpg"
     }
   ]
 }
